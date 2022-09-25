@@ -7264,6 +7264,7 @@ textarea.form-control-lg {
 }
 
 .justify-content-center {
+  display: flex;
   justify-content: center !important;
 }
 
